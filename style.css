@@ -1,11 +1,38 @@
-h1{color:#5056FF;}
-h2{background-color:#1CFF29;}
-li{color:#FF530D;}
-ul{color:#FFFFFF;}
+body{
+	background-color: #000000;
+	background-image: url(troll2.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size: 500px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
 
 
 
 
+h1{
+	color:blue;
+	font-family:"Courrier New";
+	margin-left: 10px;
+}
+h2{
+	color:#1CFF29;
+	margin-left: 10px;
+}
+li{
+	color:#FF530D;
+	margin-left: 20px;
+}
+ul{
+	color:#FFFFFF;
+}
+p{
+	
+	margin-left: 15px;
+}
 
 
 
